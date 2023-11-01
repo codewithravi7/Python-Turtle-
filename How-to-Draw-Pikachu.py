@@ -3,8 +3,7 @@
 #code with ravi
 
 #Imported turtle
-
-    import turtle
+import turtle
 
 
 def gajurel(x, y):
